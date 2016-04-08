@@ -1,1 +1,2 @@
-# bdd2
+Ana Lucia Quispe Pumacayo
+Marco Ramini
